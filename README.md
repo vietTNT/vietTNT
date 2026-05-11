@@ -2,7 +2,9 @@
 
 🎓 Sinh viên Công nghệ thông tin tại Đại học Bách khoa Đà Nẵng  
 💻 Backend / Fullstack Developer  
-🚀 Đang phát triển các dự án về Web, AI, Realtime Collaboration và Job Platform  
+🚀 Xây dựng sản phẩm Web, AI, Realtime Collaboration & Job Platform  
+
+> **Sản phẩm đang phát triển:** **DoveRx** *(thêm mô tả ngắn + link tại đây)*
 
 ---
 
@@ -45,6 +47,20 @@ Hiện tại mình đang tập trung vào:
 ---
 
 ## 📌 Dự án nổi bật
+
+### 🔹 DoveRx
+
+**(Mô tả 1–2 câu về DoveRx + link demo/repo)**
+
+**Tech stack:** (điền tech stack)
+
+Chức năng chính:
+
+- (tính năng 1)
+- (tính năng 2)
+- (tính năng 3)
+
+---
 
 ### 🔹 Job Platform - IT Recruitment System
 
@@ -99,12 +115,6 @@ Chức năng chính:
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietTNT&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietTNT&layout=compact&theme=tokyonight)
-
-## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietTNT&show_icons=true&theme=tokyonight&hide_border=true)
 
