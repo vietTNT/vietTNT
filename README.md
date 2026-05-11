@@ -51,7 +51,7 @@ Hiện tại mình đang tập trung vào:
 
 ### 🔹 DoveRx — Medical Social Network & Forum
 
-Nền tảng mạng xã hội & diễn đàn y tế kết nối người dùng quan tâm sức khỏe với bác sĩ/sinh viên y khoa, hỗ trợ hỏi đáp, chia sẻ kiến thức, tư vấn online và quản lý hồ sơ y tế cá nhân.
+Nền tảng mạng xã hội & diễn đàn y tế kết nối người dùng quan tâm sức khỏe với bác sĩ/sinh viên y khoa, hỗ trợ hỏi đáp, chia sẻ kiến thức, tư vấn online.
 
 - Frontend: https://github.com/vietTNT/DoveRx-frontend
 - Backend: https://github.com/vietTNT/DoveRx-backend
@@ -127,17 +127,14 @@ Chức năng chính:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietTNT&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vietTNT&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vietTNT&theme=tokyonight&hide_border=true)
+<!-- Removed image-based stats embeds to avoid broken/blocked image rendering in some contexts -->
 
 ---
 
 ## 🎯 Mục tiêu 2026
 
 - Hoàn thiện Job Platform
+- Tiếp tục phát triển và hoàn thiện DoveRx
 - Triển khai ViN Code Editor bản desktop
 - Xây dựng portfolio cá nhân
 - Đóng góp open-source
