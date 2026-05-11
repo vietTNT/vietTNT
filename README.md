@@ -5,7 +5,7 @@
 🚀 Xây dựng sản phẩm Web, AI, Realtime Collaboration & Job Platform  
 
 > **Sản phẩm đang phát triển:** **DoveRx** — Medical Social Network & Forum  \
-> Frontend: https://github.com/vietTNT/DoveRx-frontend · Backend: https://github.com/vietTNT/DoveRx-backend · Demo: https://doverx.vercel.app
+> Frontend: https://github.com/vietTNT/DoveRx-frontend · Backend: https://github.com/vietTNT/DoveRx-backend
 
 ---
 
@@ -55,7 +55,6 @@ Nền tảng mạng xã hội & diễn đàn y tế kết nối người dùng q
 
 - Frontend: https://github.com/vietTNT/DoveRx-frontend
 - Backend: https://github.com/vietTNT/DoveRx-backend
-- Demo: https://doverx.vercel.app
 
 **Tech stack:**
 
