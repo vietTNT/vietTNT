@@ -4,7 +4,8 @@
 💻 Backend / Fullstack Developer  
 🚀 Xây dựng sản phẩm Web, AI, Realtime Collaboration & Job Platform  
 
-> **Sản phẩm đang phát triển:** **DoveRx** *(thêm mô tả ngắn + link tại đây)*
+> **Sản phẩm đang phát triển:** **DoveRx** — Medical Social Network & Forum  \
+> Repo: https://github.com/vietTNT/DoveRx-frontend · Demo: https://doverx.vercel.app
 
 ---
 
@@ -48,17 +49,21 @@ Hiện tại mình đang tập trung vào:
 
 ## 📌 Dự án nổi bật
 
-### 🔹 DoveRx
+### 🔹 DoveRx — Medical Social Network & Forum
 
-**(Mô tả 1–2 câu về DoveRx + link demo/repo)**
+Nền tảng mạng xã hội & diễn đàn y tế kết nối người dùng quan tâm sức khỏe với bác sĩ/sinh viên y khoa, hỗ trợ hỏi đáp, chia sẻ kiến thức, tư vấn online và quản lý hồ sơ y tế cá nhân.
 
-**Tech stack:** (điền tech stack)
+- Repo: https://github.com/vietTNT/DoveRx-frontend
+- Demo: https://doverx.vercel.app
+
+**Tech stack:** React.js, JavaScript, CSS, HTML (Frontend)
 
 Chức năng chính:
 
-- (tính năng 1)
-- (tính năng 2)
-- (tính năng 3)
+- Q&A, chia sẻ kiến thức và tương tác cộng đồng
+- Real-time Chat & Notifications (WebSocket)
+- Auth & Security: JWT/OAuth2, refresh-token flow (Axios interceptors)
+- Phân quyền User/Doctor (RBAC) và luồng đăng ký Doctor
 
 ---
 
