@@ -5,7 +5,7 @@
 🚀 Xây dựng sản phẩm Web, AI, Realtime Collaboration & Job Platform  
 
 > **Sản phẩm đang phát triển:** **DoveRx** — Medical Social Network & Forum  \
-> Repo: https://github.com/vietTNT/DoveRx-frontend · Demo: https://doverx.vercel.app
+> Frontend: https://github.com/vietTNT/DoveRx-frontend · Backend: https://github.com/vietTNT/DoveRx-backend · Demo: https://doverx.vercel.app
 
 ---
 
@@ -53,15 +53,22 @@ Hiện tại mình đang tập trung vào:
 
 Nền tảng mạng xã hội & diễn đàn y tế kết nối người dùng quan tâm sức khỏe với bác sĩ/sinh viên y khoa, hỗ trợ hỏi đáp, chia sẻ kiến thức, tư vấn online và quản lý hồ sơ y tế cá nhân.
 
-- Repo: https://github.com/vietTNT/DoveRx-frontend
+- Frontend: https://github.com/vietTNT/DoveRx-frontend
+- Backend: https://github.com/vietTNT/DoveRx-backend
 - Demo: https://doverx.vercel.app
 
-**Tech stack:** React.js, JavaScript, CSS, HTML (Frontend)
+**Tech stack:**
+
+- **Frontend:** React.js, JavaScript, CSS, HTML
+- **Backend:** Python, Django, Django REST Framework
+- **Database:** PostgreSQL (Neon)
+- **Realtime:** Redis, Django Channels (WebSocket)
+- **Storage:** Cloudinary
 
 Chức năng chính:
 
 - Q&A, chia sẻ kiến thức và tương tác cộng đồng
-- Real-time Chat & Notifications (WebSocket)
+- Real-time Chat & Notifications
 - Auth & Security: JWT/OAuth2, refresh-token flow (Axios interceptors)
 - Phân quyền User/Doctor (RBAC) và luồng đăng ký Doctor
 
